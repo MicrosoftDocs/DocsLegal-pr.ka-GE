@@ -6,14 +6,14 @@ ms.author: jken
 ms.prod: legal
 ms.topic: article
 ms.date: 11/25/2020
-ms.openlocfilehash: fb025dc184b95fd2e4ab9331d36fce7cd5672471
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 7661b9449c2cfb1dc69231499c5d89f0f78ff96e
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: ka-GE
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347507"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979611"
 ---
-# <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Microsoft-ის სამართლებრივი რესურსები Docs.microsoft.com-ზე
+# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Microsoft-ის იურიდიული რესურსები იხილეთ აქ: learn.microsoft.com
 
 გთხოვთ ნახოთ ქვემოთ სამართლებრივი რესურსების ბმულები.
 
