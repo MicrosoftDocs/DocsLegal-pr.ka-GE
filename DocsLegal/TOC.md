@@ -1,10 +1,10 @@
 
-# [მონაცემთა დაცვის ზოგადი რეგლამენტი (GDPR)](gdpr.md)
-# [Azure-ის პროგრამული უზრუნველყოფის ლიცენზირების პირობები](/legal/information-protection/software-license-terms)
-# [Microsoft-ის დეველოპერის ხელშეკრულება](MDSA.md)
-# [გამოყენების პირობები](/legal/termsofuse)
-# [Learn TV-ის ქცევის კოდექსი](/legal/learntv/codeofconduct)
-# [სწავლების მონაცემთა გაზიარების პირობები](/legal/learn/reporting/terms)
+# <a name="general-data-protection-regulation-gdpr"></a>[მონაცემთა დაცვის ზოგადი რეგლამენტი (GDPR)](gdpr.md)
+# <a name="azure-software-licensing-terms"></a>[Azure-ის პროგრამული უზრუნველყოფის ლიცენზირების პირობები](/legal/information-protection/software-license-terms)
+# <a name="microsoft-developer-agreement"></a>[Microsoft-ის დეველოპერის ხელშეკრულება](MDSA.md)
+# <a name="terms-of-use"></a>[გამოყენების პირობები](/legal/termsofuse)
+# <a name="learn-tv-code-of-conduct"></a>[Learn TV-ის ქცევის კოდექსი](/legal/learntv/codeofconduct)
+# <a name="terms-of-learn-data-sharing"></a>[სწავლების მონაცემთა გაზიარების პირობები](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->

@@ -1,16 +1,12 @@
 ---
+# required metadata
 title: მონაცემთა დაცვის ზოგადი რეგლამენტი (GDPR)
 description: GDPR learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
-ms.translationtype: HT
-ms.contentlocale: ka-GE
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979407"
 ---
+
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Microsoft-ის GDPR ვალდებულებები ზოგადად ხელმისაწვდომი კორპორატიული პროგრამული პროდუქტების მომხმარებლების მიმართ
 
 **შესავალი**
