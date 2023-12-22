@@ -4,13 +4,13 @@ description: 'ინფორმაცია, რომელიც ეხებ
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Microsoft-ის იურიდიული რესურსები იხილეთ აქ: learn.microsoft.com
+# Microsoft-ის იურიდიული რესურსები იხილეთ აქ: learn.microsoft.com
 
 გთხოვთ ნახოთ ქვემოთ სამართლებრივი რესურსების ბმულები.
 
