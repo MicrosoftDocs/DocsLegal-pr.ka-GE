@@ -3,8 +3,7 @@ title: Microsoft Legal
 description: 'ინფორმაცია, რომელიც ეხება Microsoft-ის გამოყენების პირობებს, GDPR-ს, ინფორმაციის დაცვას, პროგრამული უზრუნველყოფის ლიცენზირების პირობებს და ა.შ.'
 author: GrantMeStrength
 ms.author: jken
-ms.prod: legal
-ms.topic: legal
+ms.service: legal
 ms.date: 11/25/2020
 ---
 
@@ -14,8 +13,8 @@ ms.date: 11/25/2020
 
 გთხოვთ ნახოთ ქვემოთ სამართლებრივი რესურსების ბმულები.
 
-- [მონაცემთა დაცვის ზოგადი რეგლამენტი (GDPR)](/legal/gdpr)
+- [პირადი მონაცემების დაცვის გენერალური რეგლამენტი (GDPR)](/legal/gdpr)
 - [პროგრამული უზრუნველყოფის ლიცენზირების პირობები](information-protection/software-license-terms.md)
 - [გამოყენების პირობები](/legal/termsofuse)
-- [Learn TV-ის ქცევის კოდექსი](/legal/learntv/codeofconduct)
-- [სწავლების მონაცემთა გაზიარების პირობები](/legal/learn/reporting/terms)
+- [შეიტყვეთ ტელევიზიის ქცევის კოდექსის შესახებ](/legal/learntv/codeofconduct)
+- [მონაცემთა გაზიარების შესწავლის პირობები](/legal/learn/reporting/terms)
